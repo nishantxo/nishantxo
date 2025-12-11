@@ -1,30 +1,30 @@
-<h1 align="center">Hi, I'm Nishant | AI & Data Science Enthusiast </h1>
+# **Hi, I'm Nishant Dhiman**
 
----
+### Data Analyst | Python • SQL • Power BI
 
-### About Me  
-IT Graduate from **Chandigarh University**  
-Passionate about **AI, Machine Learning, and Data Science**  
-Love building **real-world AI applications** that make learning and automation smarter  
-Currently exploring **LLMs, RAG systems, and MLOps**
+***Turning raw data into clear, actionable insights through analytics and visualization.***
 
----
+## **Skills :**
 
-### Technologies  
-**Languages:** Python, C, SQL, HTML, CSS  
-**Libraries & Frameworks:** NumPy, Pandas, Scikit-learn, Flask, PyTorch, TensorFlow, Keras  
-**Tools & Platforms:** Git, MLflow, Whisper, Ollama API, OpenAI API  
-**Core Areas:** Data Analysis, Model Deployment, API Integration, Visualization  
+<a><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/></a>
+<a><img src="https://img.shields.io/badge/SQL-025E8C?style=flat-square&logo=postgresql&logoColor=white"/></a>
+<a><img src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white"/></a>
+<a><img src="https://img.shields.io/badge/Power BI-F2C811?style=flat-square&logo=powerbi&logoColor=black"/></a>
+<a><img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/></a>
+<a><img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white"/></a>
+<a><img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white"/></a>
+<a><img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/></a>
+<a><img src="https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white"/></a>
+<a><img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/></a>
+<a><img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=python&logoColor=white"/></a>
+<a><img src="https://img.shields.io/badge/Seaborn-4C8CBF?style=flat-square&logo=python&logoColor=white"/></a>
+<a><img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/></a>
+<a><img src="https://img.shields.io/badge/Jupyter-FF8C00?style=flat-square&logo=jupyter&logoColor=white"/></a>
+<a><img src="https://img.shields.io/badge/NLP-52057B?style=flat-square&logo=google&logoColor=white"/></a>
+<a><img src="https://img.shields.io/badge/RAG_Systems-0A9396?style=flat-square&logo=apache&logoColor=white"/></a>
+<a><img src="https://img.shields.io/badge/MLOps-0A7E8C?style=flat-square&logo=mlflow&logoColor=white"/></a>
 
----
+## **Connect :**
 
-### Connect with Me  
-<p align="center">
-  <a href="https://github.com/nishantxo" target="_blank">💻 GitHub</a> •
-  <a href="https://www.linkedin.com/in/notnishant" target="_blank">🔗 LinkedIn</a> •
-  <a href="mailto:thenishantdhiman@gmail.com" target="_blank">📧 Email</a>
-</p>
-
----
-
-<p align="center">Thanks for visiting! Explore my projects and feel free to connect.</p>
+<a href="https://linkedin.com/in/notnishant"> 
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/> 
